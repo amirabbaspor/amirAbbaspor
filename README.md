@@ -1,5 +1,4 @@
-## Hi there 👋
-## i'm amir
+## Hi there 👋 I am amir
 
 
 
