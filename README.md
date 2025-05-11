@@ -4,8 +4,8 @@
 
 ## 🔧 Skills
 
-- 💻 Languages: [HTML, CSS, JavaScript, NodeJs, Python]
-- 🌐 Frameworks and Libraries: [React, TailwindCss, ExpressJs, DiscordPy] 
+- 💻 Languages: [HTML, CSS, JavaScript, Python]
+- 🌐 Frameworks and Libraries: [React, TailwindCss, NodeJs, ExpressJs, DiscordPy] 
 - 🧠 Other Technologies: [Git, GitHub]
 
 😄 I am ready to work with you.
