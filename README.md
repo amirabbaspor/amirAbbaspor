@@ -4,6 +4,7 @@
 
 ## 🔧 Skills
 
+- ☕️ My Areas of Work: [FrontEnd, BackEnd, MachineLearning]
 - 💻 Languages: [HTML, CSS, JavaScript, Python, SQL]
 - 🌐 Frameworks and Libraries: [React, TailwindCss, NodeJs, ExpressJs, DiscordPy, SpigotAPI] 
 - 🧠 Other Technologies: [Git, GitHub, SQLite]
